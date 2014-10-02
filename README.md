@@ -21,7 +21,7 @@ if __name__ == "__main__":
 Blog/Tutorial
 ============
 
-http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+http://flask.pocoo.org/docs/0.10/tutorial/
 
 Sharing Your Work
 ===========
